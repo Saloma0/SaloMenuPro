@@ -5,7 +5,8 @@
 🖌️ Sleek and Clean UI
 ⚙️ Level 8 Executor
 💻 Windows Only
-🔰Multi Api Support
+🔰 Multi Api Support
+💫 SaloApi (Own API)
 
 
 🛠️ Staff & Support Team
