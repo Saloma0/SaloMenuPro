@@ -13,4 +13,4 @@
 🤝 Friendly and Knowledgeable Team
  💎One of the first Brazilian executioners
 
-https://discord.gg/Arenhw6tNG @everyone**
+https://discord.gg/Arenhw6tNG**
