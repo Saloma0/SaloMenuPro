@@ -1,5 +1,5 @@
 # SaloMenuPro
-**# Welcome to SaloMenu Executor - Windows ⚡
+# Welcome to SaloMenu Executor - Windows ⚡
 🌟 Features
 🎯 Save Instance Support
 🖌️ Sleek and Clean UI
@@ -13,4 +13,4 @@
 🤝 Friendly and Knowledgeable Team
  💎One of the first Brazilian executioners
 
-https://discord.gg/Arenhw6tNG**
+https://discord.gg/Arenhw6tNG
