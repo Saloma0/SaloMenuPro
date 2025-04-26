@@ -1,5 +1,5 @@
 [+] 97Unc
 [+] 100Sunc
 [+] Level 8
-[+] API Improvements
-[+] More Scripts
+[+] NEW UI
+[+] NEW INJECTION METHOD
