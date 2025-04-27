@@ -14,5 +14,5 @@
 🤝 Friendly and Knowledgeable Team
  💎One of the first Brazilian executioners
 
-https://salomenunet.vercel.app/#salomenu.net
+[SaloMenu.com](https://salomenu.netlify.app/)
 https://discord.gg/Arenhw6tNG
