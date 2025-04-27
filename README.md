@@ -1,18 +1,17 @@
-# SaloMenuPro
-# Welcome to SaloMenu Executor - Windows ⚡
+Welcome to SaloMenu - Windows ⚡ 
 🌟 Features
 🎯 Save Instance Support
 🖌️ Sleek and Clean UI
+📊 Own API
+💎 99 Unc
+💎 100 Sunc
 ⚙️ Level 8 Executor
 💻 Windows Only
-🔰 Multi Api Support
-💫 SaloApi (Own API)
 
 
 🛠️ Staff & Support Team
 ⚡ Fast and Reliable Assistance
 🤝 Friendly and Knowledgeable Team
- 💎One of the first Brazilian executioners
+ 💎One of the first Brazilian executor
 
-[SaloMenu.com](https://salomenu.netlify.app/)
-https://discord.gg/Arenhw6tNG
+https://discord.gg/fmVeb3ZkPy
