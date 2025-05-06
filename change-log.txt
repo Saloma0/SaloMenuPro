@@ -1,5 +1,3 @@
 [+] 97Unc
 [+] 100Sunc
 [+] Level 8
-[+] NEW UI
-[+] NEW INJECTION METHOD
