@@ -1,4 +1,6 @@
-Welcome to SaloMenu - Windows ⚡ 
+Welcome to SaloMenu - Windows ⚡
+🔗 Visit us: https://www.salomenu.com
+
 🌟 Features
 🎯 Save Instance Support
 🖌️ Sleek and Clean UI
@@ -8,10 +10,11 @@ Welcome to SaloMenu - Windows ⚡
 ⚙️ Level 8 Executor
 💻 Windows Only
 
-
 🛠️ Staff & Support Team
 ⚡ Fast and Reliable Assistance
 🤝 Friendly and Knowledgeable Team
- 💎One of the first Brazilian executor
+💎 One of the first Brazilian executors
 
-https://discord.gg/fmVeb3ZkPy
+👑 Owners: Salomão, Meresye e Bonzinho
+
+📌 Join our community: https://discord.gg/fmVeb3ZkPy
