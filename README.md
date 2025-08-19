@@ -1,5 +1,5 @@
 Welcome to SaloMenu - Windows ⚡
-🔗 Visit us: https://www.salomenu.com
+🔗 Visit us: https://www.salomenu.vercel.app
 
 🌟 Features
 🎯 Save Instance Support
