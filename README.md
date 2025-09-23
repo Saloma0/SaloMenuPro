@@ -15,6 +15,6 @@ Welcome to SaloMenu - Windows ⚡
 🤝 Friendly and Knowledgeable Team
 💎 One of the first Brazilian executors
 
-👑 Owners: Salomão e Bomzinho
+👑 Owners: Salomão, Bomzinho and Kiemfp
 
 📌 Join our community: https://discord.gg/fmVeb3ZkPy
